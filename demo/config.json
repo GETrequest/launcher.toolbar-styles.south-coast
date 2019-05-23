@@ -1,0 +1,29 @@
+{
+    "launcherIcon": {
+      "collapsed": "more_vert",
+      "expanded": "expand_more"
+    },
+  "externalStyle": "../style.css",
+  "apps": [
+    {
+      "icon": "contact_mail",
+      "type": "web",
+      "url": "https://wikipedia.de"
+    },
+    {
+      "icon": "speaker_phone",
+      "type": "web",
+      "url": "https://www.getrequest.de"
+    },
+    {
+      "icon": "assessment",
+      "type": "web",
+      "url": "https://teamup.com/ksy1voz2gbnkm89jag"
+    },
+    {
+      "icon": "location_on",
+      "type": "web",
+      "url": "https://www.openstreetmap.org/export/embed.html?bbox=8.231506347656252%2C49.85038074305419%2C13.614807128906252%2C51.988263083821714&amp;layer=mapnik"
+    }
+  ]
+}
