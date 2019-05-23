@@ -1,0 +1,160 @@
+/* ///////// */
+/* Variables */
+/* ///////// */
+:root {
+  --me-color: #fcd900;
+  --md-color: #ebb700;
+}
+
+
+/* //////// */
+/* Launcher */
+/* //////// */
+
+.cubbles-cubx-launcher_cubx-launcher-root {
+  border-radius: 100%;
+  background-color: var(--me-color);
+}
+
+.cubbles-cubx-launcher_cubx-launcher-root .cubbles-cubx-launcher_material-icons{
+}
+
+.cubbles-cubx-launcher_material-icons_hidden{
+}
+
+
+.cubbles-cubx-launcher_cubx-launcher-root:hover{
+  background-color: var(--md-color);
+}
+.expanded{
+  background-color: var(--md-color);
+}
+.expanded:hover{
+  background-color: var(--md-color);
+}
+
+
+.cubbles-cubx-launcher_cubx-launcher-root i{
+  color: #fff;
+}
+
+
+/* ////////////// */
+/* Launcher Icons */
+/* ////////////// */
+
+.cubbles-cubx-launcher_material-icons{
+}
+
+/* ////////////// */
+/* Menu Container */
+/* ////////////// */
+
+.cubbles-cubx-launcher_cubx-launcher-menu {
+}
+
+
+/* Menu Container Top */
+/*
+.cubbles-cubx-launcher_cubx-launcher-menu {
+  transform: inherit;
+  position: fixed;
+  right: 70px;
+  top: 10px;
+  z-index: 99999999;
+}
+*/
+
+/* Menu Container Centered */
+/*
+.cubbles-cubx-launcher_cubx-launcher-menu {
+  position: fixed;
+  right: 70px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 1;
+}
+*/
+
+/* Menu Container Bottom */
+
+.cubbles-cubx-launcher_cubx-launcher-menu {
+}
+
+
+/* ////////// */
+/* Menu Icons */
+/* ////////// */
+
+.cubbles-cubx-launcher_cubx-launcher-menu > ul {
+}
+
+
+.cubbles-cubx-launcher_cubx-launcher-app-icon {
+  background-color: var(--me-color);
+}
+
+.cubbles-cubx-launcher_cubx-launcher-app-icon:hover{
+  background: var(--md-color);
+}
+
+.cubbles-cubx-launcher_launcher-menu_hidden{
+}
+.cubbles-cubx-launcher_launcher-menu_hidden .cubbles-cubx-launcher_cubx-launcher-app-icon{
+
+}
+
+.cubbles-cubx-launcher_launcher-menu_hidden .cubbles-cubx-launcher_cubx-launcher-app-icon{
+}
+
+.cubbles-cubx-launcher_cubx-launcher-app-icon > i {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-content-container {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-menu > ul {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal {
+  box-shadow: inset 0 0 30px rgba(0,0,0,0.30);
+}
+
+/*declare here where and how to transform the container animation*/
+.cubbles-cubx-launcher_launcher-modal_hidden{
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-content {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-content [data-content-anchor] {
+  box-shadow: 0 0px 46px rgba(0,0,0,0.30), 0 0px 26px rgba(0,0,0,0.22);
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-close {
+
+  background-color: red;
+
+
+
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-close{
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-close i {
+
+}
+
+/*addition*/
+iframe{
+  border: 0px solid black;
+}

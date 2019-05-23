@@ -1,0 +1,153 @@
+
+/* //////// */
+/* Launcher */
+/* //////// */
+
+.cubbles-cubx-launcher_cubx-launcher-root {
+
+  right: 10px;
+  bottom: 10px;
+  top: inherit;
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-root .cubbles-cubx-launcher_material-icons{
+
+}
+
+.cubbles-cubx-launcher_material-icons_hidden{
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-root:hover{
+
+}
+.expanded{
+
+}
+.expanded:hover{
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-root i{
+
+}
+
+
+/* ////////////// */
+/* Launcher Icons */
+/* ////////////// */
+
+.cubbles-cubx-launcher_material-icons{
+}
+
+/* ////////////// */
+/* Menu Container */
+/* ////////////// */
+
+.cubbles-cubx-launcher_cubx-launcher-menu {
+  right:0;
+}
+
+
+/* Menu Container Top */
+/*
+.cubbles-cubx-launcher_cubx-launcher-menu {
+  transform: inherit;
+  position: fixed;
+  right: 70px;
+  top: 10px;
+  z-index: 99999999;
+}
+*/
+
+/* Menu Container Centered */
+/*
+.cubbles-cubx-launcher_cubx-launcher-menu {
+  position: fixed;
+  right: 70px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 1;
+}
+*/
+
+/* Menu Container Bottom */
+
+.cubbles-cubx-launcher_cubx-launcher-menu {
+  top: inherit;
+  bottom: 50px;
+}
+
+
+/* ////////// */
+/* Menu Icons */
+/* ////////// */
+
+.cubbles-cubx-launcher_cubx-launcher-menu > ul {
+}
+.cubbles-cubx-launcher_cubx-launcher-menu ul:last-child{
+  margin-bottom: 16px;
+}
+
+
+.cubbles-cubx-launcher_cubx-launcher-app-icon {
+  margin-bottom: 6px;
+}
+
+.cubbles-cubx-launcher_cubx-launcher-app-icon:hover{
+}
+
+.cubbles-cubx-launcher_launcher-menu_hidden{
+}
+.cubbles-cubx-launcher_launcher-menu_hidden .cubbles-cubx-launcher_cubx-launcher-app-icon{
+}
+
+.cubbles-cubx-launcher_launcher-menu_hidden .cubbles-cubx-launcher_cubx-launcher-app-icon{
+  margin-bottom: -50px;
+}
+
+.cubbles-cubx-launcher_cubx-launcher-app-icon > i {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-content-container {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-menu > ul {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal {
+  transform: translateX(0vh);
+}
+
+/*declare here where and how to transform the container animation*/
+.cubbles-cubx-launcher_launcher-modal_hidden{
+  display: block;
+  transform: translateY(100vh);
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-content {
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-content [data-content-anchor] {
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-close {
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-close{
+
+}
+
+.cubbles-cubx-launcher_cubx-launcher-modal-close i {
+
+}
+
+/*addition*/
+iframe{
+}
